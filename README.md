@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @OnyxynO
-- 👀 I’m interested in nature and flowers
-- 🌱 I’m currently learning delphi and php/laravel
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me www.linkedin.com/in/sebastien-etievant-82178342
+- 👋 Hi, I'm @OnyxynO — Sébastien Etievant
+- 💻 Full-stack dev (10+ yrs) — PHP/Delphi roots, now TypeScript, Node.js, Python & Swift
+- 🚀 Projects: [BlueTang](https://github.com/OnyxynO/BlueTang) (npm RAG proxy), [Sand](https://github.com/OnyxynO/Sand) (full-stack web app), [ICSMulti Web](https://github.com/OnyxynO/icsmulti-web) (Vercel)
+- 🌱 Leveling up: modern architectures (Clean Architecture, DDD, hexagonal)
+- 🌸 Into: flowers, gardening, nature, cycling, badminton, cats, animal welfare & chocolate
+- 📫 [LinkedIn](https://www.linkedin.com/in/sebastien-etievant-82178342)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I didn't like PHP at school
-
-<!---
-OnyxynO/OnyxynO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I didn't like PHP at school — and I was right
